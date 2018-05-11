@@ -3,12 +3,8 @@ import os
 import re
 
 import geopandas as gpd
-import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
-import pymc3 as pm
 import requests
-import scipy.stats as st
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, 'data')
