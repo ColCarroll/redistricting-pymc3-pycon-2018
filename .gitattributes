@@ -1,0 +1,2 @@
+precomputed_data/nc_data.msg filter=lfs diff=lfs merge=lfs -text
+precomputed_data/north_carolina_map_data.geojson filter=lfs diff=lfs merge=lfs -text
