@@ -1,6 +1,6 @@
 # Fighting Gerrymandering with PyMC3
 
-This is the code and data needed to recreate the analysis from [Fighting Gerrymandering with PyMC3](https://us.pycon.org/2018/schedule/presentation/110/).  The end result is precinct level estimates of voting by race in the North Carolina 2016 congressional election, following the hierarchical model from [King's Ecological Inference book and R library](https://gking.harvard.edu/eir). See the slides for further citations.
+This is the code and data needed to recreate the analysis from [Fighting Gerrymandering with PyMC3](https://us.pycon.org/2018/schedule/presentation/110/).  The end result is precinct level estimates of voting by race in the North Carolina 2016 congressional election, following the hierarchical model from [King, Rosen, and Tanner, 1999, Rosen et al., 2001, and R library](https://gking.harvard.edu/eir). See the slides for further citations.
 
 ## Running the code
 
