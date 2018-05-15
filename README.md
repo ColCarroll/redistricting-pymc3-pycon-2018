@@ -2,6 +2,14 @@
 
 This is the code and data needed to recreate the analysis from [Fighting Gerrymandering with PyMC3](https://us.pycon.org/2018/schedule/presentation/110/).  The end result is precinct level estimates of voting by race in the North Carolina 2016 congressional election, following the hierarchical model from [King, Rosen, and Tanner, 1999](http://journals.sagepub.com/doi/10.1177/0049124199028001004), [Rosen et al., 2001](https://gking.harvard.edu/files/abs/rosen-abs.shtml), and [R library](https://gking.harvard.edu/eir). See the slides for further citations.
 
+## Video
+
+A video of the talk is [available on youtube](https://youtu.be/G9I5ZnkWR0A).
+
+## Slides
+
+Slides are [available on speakerdeck](https://speakerdeck.com/karink520/fighting-gerrymandering-with-pymc3).
+
 ## Running the code
 
 The python files have the following requirements:
