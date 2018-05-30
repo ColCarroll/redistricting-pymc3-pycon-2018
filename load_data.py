@@ -130,7 +130,7 @@ def get_north_carolina_join_data():
     """Load the table to join North Carolina demographic data with election results
 
     TODO: The url is actually on this page
-    https://www.ncleg.net/representation/Content/BaseData/BD2016.aspx
+    https://www2.ncleg.net/RnR/Redistricting/BaseData2016
     and returns a zip file.  The `load_remote_data` should return a fine form to unzip, but
     that needs to be done to automate this
     """
